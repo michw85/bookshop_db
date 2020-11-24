@@ -1,0 +1,11 @@
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\Database1.mdf
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\Database1_log.ldf
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\DB01.07.19.exe.config
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\DB01.07.19.exe
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\DB01.07.19.pdb
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\obj\Debug\DB01.07.19.exe
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\obj\Debug\DB01.07.19.pdb
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\First.mdf
+C:\Users\Tom\Desktop\BookShop\DB01.07.19\bin\Debug\First_log.ldf

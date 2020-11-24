@@ -1,0 +1,9 @@
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\bin\Debug\Database1.mdf
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\bin\Debug\Database1_log.ldf
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\bin\Debug\DB01.07.19.exe.config
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\bin\Debug\DB01.07.19.exe
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\bin\Debug\DB01.07.19.pdb
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\obj\Debug\DB01.07.19.csprojAssemblyReference.cache
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\obj\Debug\DB01.07.19.csproj.CoreCompileInputs.cache
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\obj\Debug\DB01.07.19.exe
+C:\Users\32235\source\repos\DB01.07.19\DB01.07.19\obj\Debug\DB01.07.19.pdb
